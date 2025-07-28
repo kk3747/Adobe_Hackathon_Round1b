@@ -1,0 +1,8 @@
+PyPDF2
+pdfplumber
+scikit-learn
+numpy
+pandas
+sentence-transformers
+tqdm
+wordninja

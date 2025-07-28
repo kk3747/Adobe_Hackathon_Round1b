@@ -1,0 +1,1 @@
+Extract and prioritize the main theorems, conjectures, and examples about componentwise linear ideals and their powers, highlighting their algebraic and combinatorial significance.
